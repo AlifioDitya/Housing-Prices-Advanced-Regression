@@ -3,17 +3,17 @@ This is a personal machine learning project to predict house sale prices using a
 The current regression model has already been submitted on Kaggle with an RMSE score of 0.13435
 
 ## Dataset Description
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+_Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home._
 
-Directly Retrieved from [1]
+*Directly Retrieved from [1]*
 
 ## Method
 Prediction is made using a tree-based regression technique, specifically the XGBoost regressor, to predict house sale prices trained on `train.csv` and predicted with `test.csv`.
 As mentioned before, the current regression model has an RMSE score of 0.13435 with a rank sitting at the top 90th percentile.
 
 ## Acknowledgments
-The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. [1]
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset [1].
 I would also like to give my appreciation to Krish Naik as the encoding and hyperparameter tuning steps and are directly borrowed from the YouTube video referenced at [2].
 
 ## Reference

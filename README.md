@@ -18,4 +18,4 @@ I would also like to give my appreciation to Krish Naik as the encoding and hype
 
 ## Reference
 - [1] Anna Montoya, DataCanary. (2016). _House Prices - Advanced Regression Techniques_. Kaggle. https://kaggle.com/competitions/house-prices-advanced-regression-techniques
-- [2] Krish Naik. (2019). _Kaggle Competition - House Prices: Advanced Regression Techniques Part1_ YouTube. https://www.youtube.com/watch?v=vtm35gVP8JU
+- [2] Krish Naik. (2019). _Kaggle Competition - House Prices: Advanced Regression Techniques Part1_. YouTube. https://www.youtube.com/watch?v=vtm35gVP8JU

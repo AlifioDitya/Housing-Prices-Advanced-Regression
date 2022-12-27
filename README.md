@@ -14,7 +14,7 @@ As mentioned before, the current regression model has an RMSE score of 0.13435 w
 
 ## Acknowledgments
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset [1].
-I would also like to give my appreciation to Krish Naik as the encoding and hyperparameter tuning steps and are directly borrowed from the YouTube video referenced at [2].
+I would also like to give my appreciation to Krish Naik as the encoding and hyperparameter tuning steps are directly borrowed from the YouTube video referenced at [2].
 
 ## Reference
 - [1] Anna Montoya, DataCanary. (2016). _House Prices - Advanced Regression Techniques_. Kaggle. https://kaggle.com/competitions/house-prices-advanced-regression-techniques
